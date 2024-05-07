@@ -293,9 +293,9 @@ CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
 大湾区卫视,http://183.238.248.83:9000/udp/239.21.0.84:3676
 
 港·澳·台,#genre# 
-TVB 翡翠频道,http://60.30.198.43:5080/HK/tvb/hls.m3u8
-TVB 翡翠频道,http://60.30.198.43:5080/HK/gdfc1/hls.m3u8
-TVB 翡翠频道,http://119.136.123.52:8000/bysid/1
+TVB翡翠台,http://60.30.198.43:5080/HK/tvb/hls.m3u8
+TVB翡翠台,http://60.30.198.43:5080/HK/gdfc1/hls.m3u8
+TVB翡翠台,http://119.136.123.52:8000/bysid/1
 TVB翡翠台,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
